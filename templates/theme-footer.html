@@ -22,15 +22,10 @@
           <a id="contact" href="${marketing_link('CONTACT')}">${_("Contact")}</a>
         </li>
         %endif
-        %if settings.MKTG_URL_LINK_MAP.get('PRIVACY'):
-        <li>
-          <a href="${marketing_link('PRIVACY')}">${_("Privacy Policy")}</a>
-        </li>
-        %endif
       </ul>
     </nav>
     <div>
-      <p class="copyright">${_(u"© 2014 {platform_name}, all rights reserved.").format(platform_name=platform_name())}</p>
+      <p class="copyright">${_(u"© 2015 {platform_name}, all rights reserved.").format(platform_name=platform_name())}</p>
     </div>
     <nav class="nav">
       <ul>
