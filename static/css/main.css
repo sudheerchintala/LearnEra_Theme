@@ -8235,12 +8235,12 @@ body header.global>nav:after {
 }
 .ionisx-input:active,
 .ionisx-input:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .ionisx-input:active+span:after,
 .ionisx-input:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .ionisx-checkbox {
     position: relative;
@@ -8265,7 +8265,7 @@ body header.global>nav:after {
     position: absolute;
     border: 1px solid #fff;
     border-radius: 4px;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     text-align: center;
     top: 2px;
     left: -1px
@@ -8696,7 +8696,7 @@ body header.global>nav:after {
 .ionisx-modal .inner-wrapper form input[type=password]:focus,
 .ionisx-modal .inner-wrapper form input[type=text]:active,
 .ionisx-modal .inner-wrapper form input[type=text]:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .ionisx-modal .inner-wrapper form input[type=email]:active+span:after,
@@ -8705,7 +8705,7 @@ body header.global>nav:after {
 .ionisx-modal .inner-wrapper form input[type=password]:focus+span:after,
 .ionisx-modal .inner-wrapper form input[type=text]:active+span:after,
 .ionisx-modal .inner-wrapper form input[type=text]:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .ionisx-modal .inner-wrapper form textarea {
     width: 100%;
@@ -8749,12 +8749,12 @@ body header.global>nav:after {
 }
 .ionisx-modal .inner-wrapper form textarea:active,
 .ionisx-modal .inner-wrapper form textarea:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .ionisx-modal .inner-wrapper form textarea:active+span:after,
 .ionisx-modal .inner-wrapper form textarea:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .ionisx-modal .inner-wrapper form .form-actions,
 .ionisx-modal .inner-wrapper form .submit {
@@ -9001,7 +9001,7 @@ h1 {
     -webkit-font-smoothing: auto
 }
 h2 {
-    color: #1D7DC1;
+    color: #18A8E9;
     text-transform: none;
     -webkit-font-smoothing: auto
 }
@@ -9010,7 +9010,7 @@ h3 {
     -webkit-font-smoothing: auto
 }
 h4 {
-    color: #1D7DC1;
+    color: #18A8E9;
     font-weight: 500;
     -webkit-font-smoothing: auto
 }
@@ -9043,7 +9043,7 @@ p a,
 p a:link,
 p a:visited {
     font: inherit;
-    color: #1D7DC1;
+    color: #18A8E9;
     outline: 0
 }
 a:active,
@@ -9064,7 +9064,7 @@ p a:link:hover,
 p a:visited:active,
 p a:visited:focus,
 p a:visited:hover {
-    color: #1D7DC1;
+    color: #18A8E9;
     border: 0 none;
     outline: 0
 }
@@ -9144,7 +9144,7 @@ input[type=text]:active,
 input[type=text]:focus,
 textarea:active,
 textarea:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 input[type=email]:active+span:after,
@@ -9155,7 +9155,7 @@ input[type=text]:active+span:after,
 input[type=text]:focus+span:after,
 textarea:active+span:after,
 textarea:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 ::-webkit-input-placeholder {
     font: inherit;
@@ -9201,7 +9201,7 @@ body header.global.slim {
     min-height: 50px;
     padding: 0;
     border: 0 none;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     margin-bottom: 0;
     -webkit-transition: all .2s ease-in;
     transition: all .2s ease-in;
@@ -10169,9 +10169,9 @@ body header.global>nav .nav-courseware a.cta-register {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    color: #1D7DC1;
+    color: #18A8E9;
     background-color: #fff;
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     text-shadow: none;
     text-overflow: ellipsis;
     -webkit-transition: all .1s ease-in;
@@ -10679,7 +10679,7 @@ body header.global>nav .nav-courseware a.cta-register.focus,
 body header.global>nav .nav-courseware a.cta-register:active,
 body header.global>nav .nav-courseware a.cta-register:focus,
 body header.global>nav .nav-courseware a.cta-register:hover {
-    color: #1D7DC1;
+    color: #18A8E9;
     background-color: #e6e6e6;
     border-color: #263645
 }
@@ -11190,7 +11190,7 @@ fieldset[disabled] body header.global>nav .nav-courseware a.cta-register:active,
 fieldset[disabled] body header.global>nav .nav-courseware a.cta-register:focus,
 fieldset[disabled] body header.global>nav .nav-courseware a.cta-register:hover {
     background-color: #fff;
-    border-color: #1D7DC1
+    border-color: #18A8E9
 }
 .view-login header.global-new>nav .nav-courseware a.cta-login .badge,
 .view-login header.global-new>nav .nav-courseware a.cta-register .badge,
@@ -11217,7 +11217,7 @@ body header.global.slim>nav .nav-courseware a.cta-register .badge,
 body header.global>nav .nav-courseware a.cta-login .badge,
 body header.global>nav .nav-courseware a.cta-register .badge {
     color: #fff;
-    background-color: #1D7DC1
+    background-color: #18A8E9
 }
 @media (max-width: 767px) {
     .view-login header.global-new>nav .nav-courseware a.cta-login,
@@ -11296,10 +11296,10 @@ body header.global>nav .nav-courseware a.cta-login:focus,
 body header.global>nav .nav-courseware a.cta-register:active,
 body header.global>nav .nav-courseware a.cta-register:focus {
     background: 0 0;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     color: #fff;
     box-shadow: none;
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     border-color: #fff;
     outline: 0
 }
@@ -11328,10 +11328,10 @@ body header.global.slim>nav .nav-courseware a.cta-register:hover,
 body header.global>nav .nav-courseware a.cta-login:hover,
 body header.global>nav .nav-courseware a.cta-register:hover {
     background: 0 0;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     color: #fff;
     box-shadow: none;
-    border-color: #1D7DC1
+    border-color: #18A8E9
 }
 .view-login header.global-new>nav ol.user,
 .view-login header.global.slim>nav ol.user,
@@ -11379,9 +11379,9 @@ body header.global>nav ol.user>li.primary>a {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    color: #1D7DC1;
+    color: #18A8E9;
     background-color: #fff;
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     text-shadow: none;
     text-overflow: ellipsis;
     -webkit-transition: all .1s ease-in;
@@ -11651,7 +11651,7 @@ body header.global>nav ol.user>li.primary>a.focus,
 body header.global>nav ol.user>li.primary>a:active,
 body header.global>nav ol.user>li.primary>a:focus,
 body header.global>nav ol.user>li.primary>a:hover {
-    color: #1D7DC1;
+    color: #18A8E9;
     background-color: #e6e6e6;
     border-color: #263645
 }
@@ -11910,7 +11910,7 @@ fieldset[disabled] body header.global>nav ol.user>li.primary>a:active,
 fieldset[disabled] body header.global>nav ol.user>li.primary>a:focus,
 fieldset[disabled] body header.global>nav ol.user>li.primary>a:hover {
     background-color: #fff;
-    border-color: #1D7DC1
+    border-color: #18A8E9
 }
 .view-login header.global-new>nav ol.user>li.primary>a .badge,
 .view-login header.global.slim>nav ol.user>li.primary>a .badge,
@@ -11925,7 +11925,7 @@ body header.global-new>nav ol.user>li.primary>a .badge,
 body header.global.slim>nav ol.user>li.primary>a .badge,
 body header.global>nav ol.user>li.primary>a .badge {
     color: #fff;
-    background-color: #1D7DC1
+    background-color: #18A8E9
 }
 @media (max-width: 767px) {
     .view-login header.global-new>nav ol.user>li.primary>a,
@@ -11968,10 +11968,10 @@ body header.global.slim>nav ol.user>li.primary>a:focus,
 body header.global>nav ol.user>li.primary>a:active,
 body header.global>nav ol.user>li.primary>a:focus {
     background: 0 0;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     color: #fff;
     box-shadow: none;
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     border-color: #fff;
     outline: 0
 }
@@ -11988,10 +11988,10 @@ body header.global-new>nav ol.user>li.primary>a:hover,
 body header.global.slim>nav ol.user>li.primary>a:hover,
 body header.global>nav ol.user>li.primary>a:hover {
     background: 0 0;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     color: #fff;
     box-shadow: none;
-    border-color: #1D7DC1
+    border-color: #18A8E9
 }
 .view-login header.global-new>nav ol.user>li.primary>a.user-link,
 .view-login header.global.slim>nav ol.user>li.primary>a.user-link,
@@ -12020,10 +12020,10 @@ body header.global-new>nav ol.user>li.primary>a.dropdown.active,
 body header.global.slim>nav ol.user>li.primary>a.dropdown.active,
 body header.global>nav ol.user>li.primary>a.dropdown.active {
     background: 0 0;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     color: #fff;
     box-shadow: none;
-    border-color: #1D7DC1
+    border-color: #18A8E9
 }
 .view-login header.global-new>nav ol.user>li.primary>a.dropdown,
 .view-login header.global.slim>nav ol.user>li.primary>a.dropdown,
@@ -12077,7 +12077,7 @@ body header.global>nav ol.user ul.dropdown-menu {
     left: initial;
     right: 0;
     box-shadow: none;
-    border: 1px solid #1D7DC1;
+    border: 1px solid #18A8E9;
     border-top: 0 none;
     border-top-right-radius: 0;
     background-color: #fff
@@ -12112,7 +12112,7 @@ body header.global>nav ol.user ul.dropdown-menu>li {
     transition: all .1s ease-in;
     border: 0 none;
     padding: 3px 8px;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .view-login header.global-new>nav ol.user ul.dropdown-menu>li>a,
 .view-login header.global.slim>nav ol.user ul.dropdown-menu>li>a,
@@ -12183,7 +12183,7 @@ body header.global>nav ol.user ul.dropdown-menu>li>a:hover {
 body header.global-new>nav ol.user ul.dropdown-menu>li:hover,
 body header.global.slim>nav ol.user ul.dropdown-menu>li:hover,
 body header.global>nav ol.user ul.dropdown-menu>li:hover {
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     color: #fff
 }
 .view-login header.global-new>nav ol.user ul.dropdown-menu>li:hover>a,
@@ -12646,7 +12646,7 @@ body .modal .inner-wrapper form input[type=password]:active,
 body .modal .inner-wrapper form input[type=password]:focus,
 body .modal .inner-wrapper form input[type=text]:active,
 body .modal .inner-wrapper form input[type=text]:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .view-login .leanModal_box .inner-wrapper form input[type=email]:active+span:after,
@@ -12697,7 +12697,7 @@ body .modal .inner-wrapper form input[type=password]:active+span:after,
 body .modal .inner-wrapper form input[type=password]:focus+span:after,
 body .modal .inner-wrapper form input[type=text]:active+span:after,
 body .modal .inner-wrapper form input[type=text]:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .view-login .leanModal_box .inner-wrapper form textarea,
 .view-login .modal .inner-wrapper form textarea,
@@ -12797,7 +12797,7 @@ body .leanModal_box .inner-wrapper form textarea:active,
 body .leanModal_box .inner-wrapper form textarea:focus,
 body .modal .inner-wrapper form textarea:active,
 body .modal .inner-wrapper form textarea:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .view-login .leanModal_box .inner-wrapper form textarea:active+span:after,
@@ -12816,7 +12816,7 @@ body .leanModal_box .inner-wrapper form textarea:active+span:after,
 body .leanModal_box .inner-wrapper form textarea:focus+span:after,
 body .modal .inner-wrapper form textarea:active+span:after,
 body .modal .inner-wrapper form textarea:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .view-login .leanModal_box .inner-wrapper form .form-actions,
 .view-login .leanModal_box .inner-wrapper form .submit,
@@ -14520,7 +14520,7 @@ body #forgot-password-modal .inner-wrapper form input[type=password]:active,
 body #forgot-password-modal .inner-wrapper form input[type=password]:focus,
 body #forgot-password-modal .inner-wrapper form input[type=text]:active,
 body #forgot-password-modal .inner-wrapper form input[type=text]:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .view-login #forgot-password-modal .inner-wrapper form input[type=email]:active+span:after,
@@ -14547,7 +14547,7 @@ body #forgot-password-modal .inner-wrapper form input[type=password]:active+span
 body #forgot-password-modal .inner-wrapper form input[type=password]:focus+span:after,
 body #forgot-password-modal .inner-wrapper form input[type=text]:active+span:after,
 body #forgot-password-modal .inner-wrapper form input[type=text]:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .view-login #forgot-password-modal .inner-wrapper form textarea,
 .view-passwordreset #forgot-password-modal .inner-wrapper form textarea,
@@ -14615,7 +14615,7 @@ body #forgot-password-modal .inner-wrapper form textarea.invalid-input+span:afte
 .view-register #forgot-password-modal .inner-wrapper form textarea:focus,
 body #forgot-password-modal .inner-wrapper form textarea:active,
 body #forgot-password-modal .inner-wrapper form textarea:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .view-login #forgot-password-modal .inner-wrapper form textarea:active+span:after,
@@ -14626,7 +14626,7 @@ body #forgot-password-modal .inner-wrapper form textarea:focus {
 .view-register #forgot-password-modal .inner-wrapper form textarea:focus+span:after,
 body #forgot-password-modal .inner-wrapper form textarea:active+span:after,
 body #forgot-password-modal .inner-wrapper form textarea:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .view-login #forgot-password-modal .inner-wrapper form .form-actions,
 .view-login #forgot-password-modal .inner-wrapper form .submit,
@@ -15117,7 +15117,7 @@ body #forgot-password-modal #password-reset header h2 {
     font-weight: 600;
     text-transform: none;
     text-align: center;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .view-login #forgot-password-modal #password-reset .instructions,
 .view-passwordreset #forgot-password-modal #password-reset .instructions,
@@ -15223,7 +15223,7 @@ body #forgot-password-modal #password-reset form fieldset input[type=email].inva
 .view-register #forgot-password-modal #password-reset form fieldset input[type=email]:focus,
 body #forgot-password-modal #password-reset form fieldset input[type=email]:active,
 body #forgot-password-modal #password-reset form fieldset input[type=email]:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .view-login #forgot-password-modal #password-reset form fieldset input[type=email]:active+span:after,
@@ -15234,7 +15234,7 @@ body #forgot-password-modal #password-reset form fieldset input[type=email]:focu
 .view-register #forgot-password-modal #password-reset form fieldset input[type=email]:focus+span:after,
 body #forgot-password-modal #password-reset form fieldset input[type=email]:active+span:after,
 body #forgot-password-modal #password-reset form fieldset input[type=email]:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .view-login #forgot-password-modal #password-reset form button[type=submit],
 .view-passwordreset #forgot-password-modal #password-reset form button[type=submit],
@@ -15507,7 +15507,7 @@ body #forgot-password-modal #password-reset form button[type=submit]:hover {
 .view-passwordreset footer,
 .view-register footer,
 body footer {
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     color: #f7f7f7;
     padding: 30px 0;
     font-size: .9em;
@@ -15772,7 +15772,7 @@ body .content-wrapper {
     display: block;
     font: inherit;
     font-size: 32px;
-    color: #1D7DC1;
+    color: #18A8E9;
     text-transform: none
 }
 .content-wrapper>.introduction header h1.title .title-sub {
@@ -15789,7 +15789,7 @@ body .content-wrapper {
 .content-wrapper section.course-info header.course-profile {
     width: auto;
     height: auto;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     border: 0 none;
     box-shadow: none;
     margin: 0;
@@ -16706,7 +16706,7 @@ fieldset[disabled] .content-wrapper section.course-info header.course-profile .i
     width: 100%
 }
 .content-wrapper section.course-info .details .inner-wrapper table.course-summary thead {
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     color: #fff
 }
 .content-wrapper section.course-info .details .inner-wrapper table.course-summary thead th {
@@ -16820,7 +16820,7 @@ fieldset[disabled] .content-wrapper section.course-info header.course-profile .i
     font-family: FontAwesome;
     content: '\f054';
     margin-right: .5em;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper .course-material {
     width: auto;
@@ -16917,7 +16917,7 @@ fieldset[disabled] .content-wrapper section.course-info header.course-profile .i
     box-shadow: none;
     text-shadow: none;
     background: 0 0;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     color: #fff
 }
 .content-wrapper .course-material .inner-wrapper .course-tabs li a.new-post-btn {
@@ -17213,7 +17213,7 @@ fieldset[disabled] .content-wrapper .course-material .inner-wrapper .course-tabs
 }
 .content-wrapper .container .course-wrapper .course-index #accordion .chapter ul li a {
     font: inherit;
-    color: #1D7DC1;
+    color: #18A8E9;
     background: 0 0;
     padding: .3em .5em;
     border-radius: 4px;
@@ -17242,8 +17242,8 @@ fieldset[disabled] .content-wrapper .course-material .inner-wrapper .course-tabs
     font: inherit
 }
 .content-wrapper .container .course-wrapper .course-index #accordion .chapter ul li.active a {
-    border-color: #1D7DC1;
-    background-color: #1D7DC1;
+    border-color: #18A8E9;
+    background-color: #18A8E9;
     color: #fff
 }
 .content-wrapper .container .course-wrapper .course-content {
@@ -17462,7 +17462,7 @@ fieldset[disabled] .content-wrapper .course-material .inner-wrapper .course-tabs
 .content-wrapper .container .course-wrapper .course-content .xblock.xmodule_DiscussionModule .discussion-module .discussion .new-post-article>.inner-wrapper>.new-post-form input[type=text]:focus,
 .content-wrapper .container .course-wrapper .course-content .xblock.xmodule_DiscussionModule .discussion-module .discussion .new-post-article>.inner-wrapper>.new-post-form textarea:active,
 .content-wrapper .container .course-wrapper .course-content .xblock.xmodule_DiscussionModule .discussion-module .discussion .new-post-article>.inner-wrapper>.new-post-form textarea:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .content-wrapper .container .course-wrapper .course-content .xblock.xmodule_DiscussionModule .discussion-module .discussion .new-post-article>.inner-wrapper>.new-post-form input[type=email]:active+span:after,
@@ -17473,7 +17473,7 @@ fieldset[disabled] .content-wrapper .course-material .inner-wrapper .course-tabs
 .content-wrapper .container .course-wrapper .course-content .xblock.xmodule_DiscussionModule .discussion-module .discussion .new-post-article>.inner-wrapper>.new-post-form input[type=text]:focus+span:after,
 .content-wrapper .container .course-wrapper .course-content .xblock.xmodule_DiscussionModule .discussion-module .discussion .new-post-article>.inner-wrapper>.new-post-form textarea:active+span:after,
 .content-wrapper .container .course-wrapper .course-content .xblock.xmodule_DiscussionModule .discussion-module .discussion .new-post-article>.inner-wrapper>.new-post-form textarea:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper .container .course-wrapper .course-content .xblock.xmodule_DiscussionModule .discussion-module .discussion .new-post-article>.inner-wrapper>.new-post-form .wmd-panel {
     width: auto;
@@ -18339,13 +18339,13 @@ fieldset[disabled] .content-wrapper .container .course-wrapper .course-content .
 }
 .content-wrapper .container .course-wrapper .course-content .sequence-nav .sequence-list-wrapper ol li a.active,
 .content-wrapper .container .course-wrapper .course-content .sequence-nav .sequence-list-wrapper ol li a.active.progress-none {
-    border-color: #1D7DC1;
-    color: #1D7DC1
+    border-color: #18A8E9;
+    color: #18A8E9
 }
 @media (max-width: 991px) {
     .content-wrapper .container .course-wrapper .course-content .sequence-nav .sequence-list-wrapper ol li a.active {
         display: block;
-        border: 3px solid #1D7DC1
+        border: 3px solid #18A8E9
     }
 }
 .content-wrapper .container .course-wrapper .course-content .sequence-nav .sequence-list-wrapper ol li a.active.progress-in_progress,
@@ -18459,7 +18459,7 @@ fieldset[disabled] .content-wrapper .container .course-wrapper .course-content .
     -webkit-font-smoothing: inherit;
     text-transform: none;
     letter-spacing: inherit;
-    color: #1D7DC1;
+    color: #18A8E9;
     margin: 0 0 13px
 }
 .content-wrapper .container .static_tab_wrapper .xmodule_StaticTabModule h3 {
@@ -18476,7 +18476,7 @@ fieldset[disabled] .content-wrapper .container .course-wrapper .course-content .
 }
 .content-wrapper .container .static_tab_wrapper .xmodule_StaticTabModule a {
     font: inherit;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper .container .static_tab_wrapper .xmodule_StaticTabModule ol,
 .content-wrapper .container .static_tab_wrapper .xmodule_StaticTabModule ul {
@@ -18512,7 +18512,7 @@ fieldset[disabled] .content-wrapper .container .course-wrapper .course-content .
     font: inherit;
     font-size: 20px;
     font-weight: 600;
-    color: #1D7DC1;
+    color: #18A8E9;
     border: 0 none;
     padding: 0;
     margin: 0 0 1.5em
@@ -18576,7 +18576,7 @@ fieldset[disabled] .content-wrapper .container .course-wrapper .course-content .
     font: inherit;
     font-size: 20px;
     font-weight: 600;
-    color: #1D7DC1;
+    color: #18A8E9;
     border: 0 none;
     padding: 0;
     margin: 0
@@ -18601,7 +18601,7 @@ fieldset[disabled] .content-wrapper .container .course-wrapper .course-content .
     font: inherit;
     font-size: 20px;
     font-weight: 600;
-    color: #1D7DC1;
+    color: #18A8E9;
     border: 0 none;
     padding: 0;
     margin: 0 0 1.5em
@@ -19162,7 +19162,7 @@ fieldset[disabled] .content-wrapper .container>.instructor-dashboard-wrapper>.in
 .content-wrapper .container>.discussion-body .thread-wrapper .discussion-post header h1 {
     font-size: 20px;
     font-weight: 600;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper .container>.discussion-body .thread-wrapper .discussion-post header .posted-details {
     font-size: 87%;
@@ -19213,7 +19213,7 @@ fieldset[disabled] .content-wrapper .container>.instructor-dashboard-wrapper>.in
     -ms-user-select: none;
     user-select: none;
     color: #fff;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     text-shadow: none;
     text-overflow: ellipsis;
     -webkit-transition: all .1s ease-in;
@@ -19223,7 +19223,7 @@ fieldset[disabled] .content-wrapper .container>.instructor-dashboard-wrapper>.in
     padding: .5em 1.2em;
     outline: 0;
     overflow: hidden;
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     font-size: 87%
 }
 .content-wrapper .container>.discussion-body .thread-wrapper .post-extended-content .add-response .add-response-btn.active.focus,
@@ -19289,11 +19289,11 @@ fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper 
 fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper .post-extended-content .add-response .add-response-btn:active,
 fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper .post-extended-content .add-response .add-response-btn:focus,
 fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper .post-extended-content .add-response .add-response-btn:hover {
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     border-color: #fff
 }
 .content-wrapper .container>.discussion-body .thread-wrapper .post-extended-content .add-response .add-response-btn .badge {
-    color: #1D7DC1;
+    color: #18A8E9;
     background-color: #fff
 }
 @media (max-width: 767px) {
@@ -19305,16 +19305,16 @@ fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper 
 .content-wrapper .container>.discussion-body .thread-wrapper .post-extended-content .add-response .add-response-btn:focus {
     background: 0 0;
     background-color: #fff;
-    color: #1D7DC1;
+    color: #18A8E9;
     box-shadow: none;
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     outline: 0
 }
 .content-wrapper .container>.discussion-body .thread-wrapper .post-extended-content .add-response .add-response-btn:hover {
     background: 0 0;
     background-color: #fff;
-    color: #1D7DC1;
-    border-color: #1D7DC1;
+    color: #18A8E9;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .content-wrapper .container>.discussion-body .thread-wrapper .post-extended-content .responses {
@@ -19438,12 +19438,12 @@ fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper 
 }
 .content-wrapper .container>.discussion-body .thread-wrapper .wmd-panel textarea:active,
 .content-wrapper .container>.discussion-body .thread-wrapper .wmd-panel textarea:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .content-wrapper .container>.discussion-body .thread-wrapper .wmd-panel textarea:active+span:after,
 .content-wrapper .container>.discussion-body .thread-wrapper .wmd-panel textarea:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper .container>.discussion-body .thread-wrapper .wmd-panel .wmd-preview-container {
     width: auto;
@@ -19694,7 +19694,7 @@ fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper 
 }
 .content-wrapper>.book-wrapper>.book-sidebar ul#booknav a,
 .content-wrapper>.book-wrapper>.book-sidebar ul#booknav a:hover {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.book-wrapper>.book {
     width: 100%;
@@ -19871,7 +19871,7 @@ fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper 
     box-shadow: none;
     background: 0;
     border: none;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     margin: 0;
     padding: 60px 0
 }
@@ -20099,7 +20099,7 @@ fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper 
 }
 .content-wrapper>.home .courses .courses-listing-item .course:hover {
     box-shadow: none;
-    border-color: #1D7DC1
+    border-color: #18A8E9
 }
 .content-wrapper>.home .courses .courses-listing-item .course .inner-wrapper {
     border: 0 none
@@ -20234,7 +20234,7 @@ fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper 
 }
 .content-wrapper>.find-courses .courses .courses-listing-item .course:hover {
     box-shadow: none;
-    border-color: #1D7DC1
+    border-color: #18A8E9
 }
 .content-wrapper>.find-courses .courses .courses-listing-item .course .inner-wrapper {
     border: 0 none
@@ -20431,7 +20431,7 @@ fieldset[disabled] .content-wrapper .container>.discussion-body .thread-wrapper 
 .content-wrapper>.dashboard .profile-sidebar .user-info ul>li>span.title:before {
     display: inline-block;
     width: 20px;
-    color: #1D7DC1;
+    color: #18A8E9;
     font-family: FontAwesome
 }
 .content-wrapper>.dashboard .profile-sidebar .user-info ul>li>span.data {
@@ -20634,7 +20634,7 @@ fieldset[disabled] .content-wrapper>.dashboard .my-courses .empty-dashboard-mess
     }
 }
 .content-wrapper>.dashboard .my-courses .listing-courses .course-item:hover {
-    border-color: #1D7DC1
+    border-color: #18A8E9
 }
 .content-wrapper>.dashboard .my-courses .listing-courses .course-item:last-child {
     margin: 0
@@ -20677,7 +20677,7 @@ fieldset[disabled] .content-wrapper>.dashboard .my-courses .empty-dashboard-mess
     font-size: .9em
 }
 .content-wrapper>.dashboard .my-courses .listing-courses .course-item .cover div.cover-university {
-    color: #1D7DC1;
+    color: #18A8E9;
     font-weight: 600;
     font-size: .9em
 }
@@ -20987,7 +20987,7 @@ fieldset[disabled] .content-wrapper>.dashboard .my-courses .listing-courses .cou
 }
 .content-wrapper>.register .content a {
     font: inherit;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.register .content form .status {
     outline: 0;
@@ -21144,7 +21144,7 @@ fieldset[disabled] .content-wrapper>.dashboard .my-courses .listing-courses .cou
     position: absolute;
     border: 1px solid #fff;
     border-radius: 4px;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     text-align: center;
     top: 2px;
     left: -1px
@@ -21165,7 +21165,7 @@ fieldset[disabled] .content-wrapper>.dashboard .my-courses .listing-courses .cou
     color: #fff
 }
 .content-wrapper>.register .content form .field.is-focused label {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.register .content form input[type=email],
 .content-wrapper>.register .content form input[type=password],
@@ -21231,7 +21231,7 @@ fieldset[disabled] .content-wrapper>.dashboard .my-courses .listing-courses .cou
 .content-wrapper>.register .content form input[type=text]:focus,
 .content-wrapper>.register .content form textarea:active,
 .content-wrapper>.register .content form textarea:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .content-wrapper>.register .content form input[type=email]:active+span:after,
@@ -21242,7 +21242,7 @@ fieldset[disabled] .content-wrapper>.dashboard .my-courses .listing-courses .cou
 .content-wrapper>.register .content form input[type=text]:focus+span:after,
 .content-wrapper>.register .content form textarea:active+span:after,
 .content-wrapper>.register .content form textarea:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.register .content form .group-form-personalinformation,
 .content-wrapper>.register .content form .group-form-personalinformation2 {
@@ -21409,7 +21409,7 @@ fieldset[disabled] .content-wrapper>.register .content form .form-actions button
 }
 .content-wrapper>.register aside a {
     font: inherit;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.login {
     width: auto;
@@ -21466,7 +21466,7 @@ fieldset[disabled] .content-wrapper>.register .content form .form-actions button
 }
 .content-wrapper>.login .content a {
     font: inherit;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.login .content form .status {
     outline: 0;
@@ -21621,7 +21621,7 @@ fieldset[disabled] .content-wrapper>.register .content form .form-actions button
     position: absolute;
     border: 1px solid #fff;
     border-radius: 4px;
-    background-color: #1D7DC1;
+    background-color: #18A8E9;
     text-align: center;
     top: 2px;
     left: -1px
@@ -21705,7 +21705,7 @@ fieldset[disabled] .content-wrapper>.register .content form .form-actions button
 .content-wrapper>.login .content form input[type=text]:focus,
 .content-wrapper>.login .content form textarea:active,
 .content-wrapper>.login .content form textarea:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .content-wrapper>.login .content form input[type=email]:active+span:after,
@@ -21716,7 +21716,7 @@ fieldset[disabled] .content-wrapper>.register .content form .form-actions button
 .content-wrapper>.login .content form input[type=text]:focus+span:after,
 .content-wrapper>.login .content form textarea:active+span:after,
 .content-wrapper>.login .content form textarea:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.login .content form .form-actions button[type=submit] {
     width: auto;
@@ -21876,7 +21876,7 @@ fieldset[disabled] .content-wrapper>.login .content form .form-actions button[ty
 }
 .content-wrapper>.login aside a {
     font: inherit;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.passwordreset {
     width: auto;
@@ -21926,7 +21926,7 @@ fieldset[disabled] .content-wrapper>.login .content form .form-actions button[ty
 .content-wrapper>.passwordreset .introduction header h1 {
     font: inherit;
     font-size: 32px;
-    color: #1D7DC1;
+    color: #18A8E9;
     text-transform: none
 }
 .content-wrapper>.passwordreset>div {
@@ -21952,7 +21952,7 @@ fieldset[disabled] .content-wrapper>.login .content form .form-actions button[ty
 }
 .content-wrapper>.passwordreset .content a {
     font: inherit;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.passwordreset .content form .status {
     outline: 0;
@@ -22115,12 +22115,12 @@ fieldset[disabled] .content-wrapper>.login .content form .form-actions button[ty
 }
 .content-wrapper>.passwordreset .content form input[type=password]:active,
 .content-wrapper>.passwordreset .content form input[type=password]:focus {
-    border-color: #1D7DC1;
+    border-color: #18A8E9;
     box-shadow: none
 }
 .content-wrapper>.passwordreset .content form input[type=password]:active+span:after,
 .content-wrapper>.passwordreset .content form input[type=password]:focus+span:after {
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.passwordreset .content form .form-actions button[type=submit] {
     width: auto;
@@ -22280,7 +22280,7 @@ fieldset[disabled] .content-wrapper>.passwordreset .content form .form-actions b
 }
 .content-wrapper>.passwordreset aside a {
     font: inherit;
-    color: #1D7DC1
+    color: #18A8E9
 }
 .content-wrapper>.activation {
     width: auto;
